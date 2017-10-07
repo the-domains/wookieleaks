@@ -1,16 +1,16 @@
 ---
 isBasedOnUrl: 'https://swgoh.gg/g/24495/wookieleaks/'
 title: ''
-datePublished: '2017-10-07T04:27:18.005Z'
-dateModified: '2017-10-07T04:26:43.183Z'
+datePublished: '2017-10-07T04:52:04.284Z'
+dateModified: '2017-10-07T04:51:57.478Z'
 publisher: {}
 author: []
 inFeed: true
 description: Wookieleaks on swgoh.gg
 via: {}
+sourcePath: _posts/2017-10-06-wookieleaks-on-swgohgg.md
 starred: false
 datePublishedOriginal: '2017-10-06T05:35:33.749Z'
-sourcePath: _posts/2017-10-06-wookieleaks-on-swgohgg.md
 _type: Article
 _context: 'http://schema.org'
 
