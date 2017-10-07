@@ -1,5 +1,13 @@
+name: Wookieleaks
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9419242f-0a05-4415-8fc0-523e4348371b.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f51efaa6-8dd5-4c08-b8e5-89b6b5b6a719.jpg
 layout_spectrum: 0.20831299438371814
 typography_spectrum: 0.03363501615241391
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#A9602B'
@@ -11,21 +19,10 @@ color:
   lightness: 0.8312966078719917
   saturation: 0.26171189738372985
   rhythmicContrast: 0.40896148990129705
-name: Wookieleaks
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9419242f-0a05-4415-8fc0-523e4348371b.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f51efaa6-8dd5-4c08-b8e5-89b6b5b6a719.jpg
-opengraph:
-  type: ''
-  appId: ''
 purpose:
   - type: external
     label: swgoh.gg
     url: 'https://swgoh.gg/g/24495/wookieleaks/'
-  - type: external
-    label: discord
-    url: 'https://discord.gg/tGDDQ8'
 title: ''
 description: ''
 author:
@@ -42,19 +39,16 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/afe1a221-d10c-4ee2-8a72-0be64d8619c5.jpg
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -66,19 +60,16 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/afe1a221-d10c-4ee2-8a72-0be64d8619c5.jpg
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
