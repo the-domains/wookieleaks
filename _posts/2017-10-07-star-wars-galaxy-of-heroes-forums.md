@@ -1,6 +1,6 @@
 ---
 title: Star Wars Galaxy of Heroes Forums
-dateModified: '2017-10-07T04:10:19.810Z'
+dateModified: '2017-10-07T04:13:42.614Z'
 publisher: {}
 author: []
 inFeed: true
@@ -9,10 +9,10 @@ description: >-
   tips, tricks and connect with other players in the forums!
 via: {}
 isBasedOnUrl: 'https://forums.galaxy-of-heroes.starwars.ea.com/'
-datePublished: '2017-10-07T04:10:24.037Z'
+datePublished: '2017-10-07T04:13:49.530Z'
+sourcePath: _posts/2017-10-07-star-wars-galaxy-of-heroes-forums.md
 starred: false
 datePublishedOriginal: '2017-10-07T04:10:24.037Z'
-sourcePath: _posts/2017-10-07-star-wars-galaxy-of-heroes-forums.md
 _type: Article
 _context: 'http://schema.org'
 
