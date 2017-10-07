@@ -1,0 +1,33 @@
+name: wookieleaks
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9419242f-0a05-4415-8fc0-523e4348371b.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f51efaa6-8dd5-4c08-b8e5-89b6b5b6a719.jpg
+layout_spectrum: 0.849715083281497
+typography_spectrum: 0.8454981024678855
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0.30334514893215536
+  lightness: 0.9352247101135464
+  saturation: 0.4052766892129974
+  rhythmicContrast: 0.7544562492458028
+purpose:
+  - type: external
+    label: swgoh.gg
+    url: 'https://swgoh.gg/g/24495/wookieleaks/'
+title: Wookieleaks
+description: Wookieleaks
+author:
+  name: Wookieleaks Command
+content_rating:
+  adult: false
+content: []
+github: true
