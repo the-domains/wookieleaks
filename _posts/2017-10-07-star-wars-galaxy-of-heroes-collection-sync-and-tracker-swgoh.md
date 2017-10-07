@@ -1,13 +1,13 @@
 ---
 title: Star Wars Galaxy of Heroes Collection Sync & Tracker · SWGOH.GG
-dateModified: '2017-10-07T04:07:09.055Z'
+dateModified: '2017-10-07T04:07:13.324Z'
 publisher: {}
 author: []
 inFeed: true
 description: Sync your collection (please)
 via: {}
 isBasedOnUrl: 'http://swgoh.gg/sync'
-datePublished: '2017-10-07T04:07:11.684Z'
+datePublished: '2017-10-07T04:07:18.676Z'
 sourcePath: >-
   _posts/2017-10-07-star-wars-galaxy-of-heroes-collection-sync-and-tracker-swgoh.md
 starred: false
