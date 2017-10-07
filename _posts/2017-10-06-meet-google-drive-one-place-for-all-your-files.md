@@ -1,8 +1,8 @@
 ---
 isBasedOnUrl: 'https://drive.google.com/folderview?id=0B3sJ8GcFUlfddWJHV1NQdm1Rbk0'
 title: ''
-datePublished: '2017-10-07T04:07:07.118Z'
-dateModified: '2017-10-07T04:07:01.713Z'
+datePublished: '2017-10-07T04:07:11.648Z'
+dateModified: '2017-10-07T04:07:09.055Z'
 publisher: {}
 author: []
 inFeed: true
