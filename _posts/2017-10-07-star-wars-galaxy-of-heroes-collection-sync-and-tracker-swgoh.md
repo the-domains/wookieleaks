@@ -1,8 +1,8 @@
 ---
 isBasedOnUrl: 'http://swgoh.gg/sync'
 title: Star Wars Galaxy of Heroes Collection Sync & Tracker · SWGOH.GG
-datePublished: '2017-10-07T04:23:48.559Z'
-dateModified: '2017-10-07T04:23:26.815Z'
+datePublished: '2017-10-07T04:52:04.286Z'
+dateModified: '2017-10-07T04:51:57.478Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,10 +10,10 @@ description: >-
   Track your Star Wars Galaxy of Heroes Collection, View stats about your
   characters, guild and show off your Arena Team and Rank!
 via: {}
-starred: false
-datePublishedOriginal: '2017-10-07T03:54:34.805Z'
 sourcePath: >-
   _posts/2017-10-07-star-wars-galaxy-of-heroes-collection-sync-and-tracker-swgoh.md
+starred: false
+datePublishedOriginal: '2017-10-07T03:54:34.805Z'
 _type: Article
 _context: 'http://schema.org'
 
