@@ -1,8 +1,8 @@
 ---
 isBasedOnUrl: 'http://swgoh.gg/sync'
 title: Star Wars Galaxy of Heroes Collection Sync & Tracker · SWGOH.GG
-datePublished: '2017-10-07T04:52:26.045Z'
-dateModified: '2017-10-07T04:52:20.696Z'
+datePublished: '2017-10-07T04:56:28.123Z'
+dateModified: '2017-10-07T04:56:20.258Z'
 publisher: {}
 author: []
 inFeed: true
