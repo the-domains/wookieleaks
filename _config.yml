@@ -1,4 +1,4 @@
-name: wookieleaks
+name: Wookieleaks
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9419242f-0a05-4415-8fc0-523e4348371b.jpg
 logo: >-
@@ -24,7 +24,7 @@ purpose:
     label: swgoh.gg
     url: 'https://swgoh.gg/g/24495/wookieleaks/'
 title: Wookieleaks
-description: Wookieleaks
+description: ''
 author:
   name: Wookieleaks Command
 content_rating:
