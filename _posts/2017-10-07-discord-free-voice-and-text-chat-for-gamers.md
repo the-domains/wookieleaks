@@ -14,9 +14,9 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://discord.gg/tGDDQ8'
 title: Discord - Free voice and text chat for gamers
-datePublished: '2017-10-07T04:16:53.385Z'
-dateModified: '2017-10-07T04:15:44.319Z'
-datePublishedOriginal: '2017-10-07T04:16:53.385Z'
+datePublished: '2017-10-07T04:17:04.250Z'
+dateModified: '2017-10-07T04:16:15.699Z'
+datePublishedOriginal: '2017-10-07T04:17:04.250Z'
 via: {}
 inFeed: true
 starred: false
