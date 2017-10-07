@@ -1,6 +1,6 @@
 ---
 title: Star Wars™ Galaxy of Heroes - Free Mobile Game - EA Official Site
-dateModified: '2017-10-07T04:06:47.450Z'
+dateModified: '2017-10-07T04:06:55.248Z'
 publisher: {}
 author:
   - name: Electronic Arts
@@ -13,7 +13,7 @@ description: >-
   astromech droid, BB-8.
 via: {}
 isBasedOnUrl: 'https://www.ea.com/en-au/games/starwars/galaxy-of-heroes'
-datePublished: '2017-10-07T04:06:53.610Z'
+datePublished: '2017-10-07T04:07:00.446Z'
 sourcePath: _posts/2017-10-07-star-warstm-galaxy-of-heroes-free-mobile-game-ea-official.md
 starred: false
 datePublishedOriginal: '2017-10-07T04:04:23.184Z'
