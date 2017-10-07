@@ -26,7 +26,7 @@ purpose:
   - type: external
     label: discord
     url: 'https://discord.gg/tGDDQ8'
-title: Wookieleaks
+title: ''
 description: ''
 author:
   name: Wookieleaks Command
@@ -75,7 +75,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
