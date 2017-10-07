@@ -1,12 +1,12 @@
 ---
 title: Now recruiting
-dateModified: '2017-10-07T04:56:20.258Z'
+dateModified: '2017-10-07T05:01:02.270Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2017-10-07T04:56:28.117Z'
+datePublished: '2017-10-07T05:01:09.431Z'
 sourcePath: _posts/2017-10-07-now-recruiting.md
 starred: false
 datePublishedOriginal: '2017-10-07T04:51:37.843Z'
