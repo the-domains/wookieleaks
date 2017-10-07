@@ -1,7 +1,7 @@
 ---
 isBasedOnUrl: 'https://play.google.com/store/apps/details?id=com.ea.game.starwarscapital_row'
 title: 'Star Wars™: Galaxy of Heroes - Android Apps on Google Play'
-dateModified: '2017-10-07T04:08:03.866Z'
+dateModified: '2017-10-07T04:08:14.887Z'
 publisher: {}
 author:
   - name: ELECTRONIC ARTS
@@ -15,7 +15,7 @@ description: >-
   your Star Wars™ dreams as you fight with your favorite dark and light side
   heroes across iconic locations to become master of the galaxy.
 via: {}
-datePublished: '2017-10-07T04:08:06.454Z'
+datePublished: '2017-10-07T04:08:19.000Z'
 sourcePath: _posts/2017-10-07-star-warstm-galaxy-of-heroes-android-apps-on-google-play.md
 starred: false
 datePublishedOriginal: '2017-10-07T04:06:26.015Z'
