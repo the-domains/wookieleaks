@@ -1,7 +1,7 @@
 ---
 title: Now Recruiting
-datePublished: '2017-10-07T05:09:08.047Z'
-dateModified: '2017-10-07T05:09:00.493Z'
+datePublished: '2017-10-07T05:21:52.445Z'
+dateModified: '2017-10-07T05:21:45.686Z'
 publisher: {}
 author: []
 inFeed: true
@@ -18,12 +18,8 @@ _context: 'http://schema.org'
 ---
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/865ebb60-037c-472c-943e-c34bff3cb248.jpg" /><h1>Now Recruiting</h1></article>
 
-[Apply][0]
+<button data-role="cta" style="">Open</button>
 
 Join our discord server if you have what it takes.
 
 ---
-
-
-
-[0]: https://discord.gg/tGDDQ8
