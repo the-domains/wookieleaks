@@ -1,8 +1,8 @@
 ---
 isBasedOnUrl: 'https://swgoh.gg/g/24495/wookieleaks/'
 title: Wōōkieleaks · SWGOH.GG
-datePublished: '2017-10-07T04:07:18.679Z'
-dateModified: '2017-10-07T04:07:13.324Z'
+datePublished: '2017-10-07T04:07:52.378Z'
+dateModified: '2017-10-07T04:07:49.589Z'
 publisher: {}
 author: []
 inFeed: true
