@@ -1,12 +1,12 @@
 ---
 title: Now Recruiting
-datePublished: '2017-10-07T05:21:52.445Z'
-dateModified: '2017-10-07T05:21:45.686Z'
+datePublished: '2017-10-07T05:24:17.941Z'
+dateModified: '2017-10-07T05:24:10.209Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
-description: Join our discord server if you have what it takes.
+description: ''
 via: {}
 starred: false
 datePublishedOriginal: '2017-10-07T04:51:37.843Z'
@@ -16,10 +16,6 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/865ebb60-037c-472c-943e-c34bff3cb248.jpg" /><h1>Now Recruiting</h1></article>
-
-<button data-role="cta" style="">Open</button>
-
-Join our discord server if you have what it takes.
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/995a7a73-f22b-4a58-bc0c-e695cc1736e5.jpg" /><h1>Now Recruiting</h1></article>
 
 ---
