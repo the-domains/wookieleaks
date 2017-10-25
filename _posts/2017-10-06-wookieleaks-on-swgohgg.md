@@ -1,16 +1,16 @@
 ---
 isBasedOnUrl: 'https://swgoh.gg/g/24495/wookieleaks/'
 title: Wōōkieleaks · SWGOH.GG
-datePublished: '2017-10-07T05:07:55.430Z'
-dateModified: '2017-10-07T05:07:48.914Z'
+datePublished: '2017-10-25T09:50:24.076Z'
+dateModified: '2017-10-25T09:50:22.350Z'
 publisher: {}
 author: []
 inFeed: true
 description: Check out Wōōkieleaks Roster and accomplishments on Star Wars Galaxy of Heroes
 via: {}
+sourcePath: _posts/2017-10-06-wookieleaks-on-swgohgg.md
 starred: false
 datePublishedOriginal: '2017-10-06T05:35:33.749Z'
-sourcePath: _posts/2017-10-06-wookieleaks-on-swgohgg.md
 _type: Article
 _context: 'http://schema.org'
 
