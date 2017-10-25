@@ -1,7 +1,7 @@
 ---
 title: Now Recruiting
-datePublished: '2017-10-18T03:03:32.527Z'
-dateModified: '2017-10-18T03:03:31.285Z'
+datePublished: '2017-10-25T09:50:24.077Z'
+dateModified: '2017-10-25T09:50:22.350Z'
 publisher: {}
 author: []
 inFeed: true
