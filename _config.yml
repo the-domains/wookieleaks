@@ -5,6 +5,8 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f51efaa6-8dd5-4c08-b8e5-89b6b5b6a719.jpg
 layout_spectrum: 0.20831299438371814
 typography_spectrum: 0.03363501615241391
+analytics:
+  google: UA-108283677-1
 opengraph:
   type: ''
   appId: ''
@@ -23,9 +25,6 @@ purpose:
   - type: external
     label: swgoh.gg
     url: 'https://swgoh.gg/g/24495/wookieleaks/'
-  - type: external
-    label: discord
-    url: 'https://discord.gg/zkBsbju'
 title: Wookieleaks
 description: wookieleaks.xyz
 author:
@@ -77,5 +76,3 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
-analytics:
-  google: UA-108283677-1
