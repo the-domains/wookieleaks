@@ -25,6 +25,9 @@ purpose:
   - type: external
     label: swgoh.gg
     url: 'https://swgoh.gg/g/24495/wookieleaks/'
+  - type: external
+    label: discord
+    url: 'https://discord.gg/yWnYyRX'
 title: Wookieleaks
 description: wookieleaks.xyz
 author:
